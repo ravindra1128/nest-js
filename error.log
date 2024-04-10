@@ -1,0 +1,348 @@
+[2024-01-09 13:22:58] [31merror[39m: [31mDecoding Firebase ID token failed. Make sure you passed the entire string JWT which represents an ID token. See https://firebase.google.com/docs/auth/admin/verify-id-tokens for details on how to retrieve an ID token.[39m
+[2024-01-09 13:23:29] [31merror[39m: [31mFirst argument to verifyIdToken() must be a Firebase ID token string.[39m
+[2024-01-09 15:08:07] [31merror[39m: [31mFirst argument to verifyIdToken() must be a Firebase ID token string.[39m
+[2024-01-09 18:43:32] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-09 18:44:21] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-09 18:44:46] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-09 19:11:05] [31merror[39m: [31m{"code":"auth/email-already-exists","message":"The email address is already in use by another account."}[39m
+[2024-01-09 19:11:15] [31merror[39m: [31m{"code":"auth/email-already-exists","message":"The email address is already in use by another account."}[39m
+[2024-01-09 19:11:33] [31merror[39m: [31m{"code":"auth/email-already-exists","message":"The email address is already in use by another account."}[39m
+[2024-01-09 19:11:51] [31merror[39m: [31m{"code":"auth/email-already-exists","message":"The email address is already in use by another account."}[39m
+[2024-01-09 19:30:17] [31merror[39m: [31m{}[39m
+[2024-01-09 19:31:27] [31merror[39m: [31m{}[39m
+[2024-01-09 19:32:53] [31merror[39m: [31m{}[39m
+[2024-01-09 19:51:00] [31merror[39m: [31m{"code":"auth/invalid-uid","message":"The uid must be a non-empty string with at most 128 characters."}[39m
+[2024-01-09 19:51:48] [31merror[39m: [31m{"code":"auth/invalid-uid","message":"The uid must be a non-empty string with at most 128 characters."}[39m
+[2024-01-09 20:21:18] [31merror[39m: [31m{}[39m
+[2024-01-10 17:22:25] [31merror[39m: [31m{}[39m
+[2024-01-10 17:28:59] [31merror[39m: [31m{}[39m
+[2024-01-10 17:30:57] [31merror[39m: [31m{}[39m
+[2024-01-11 13:16:58] [31merror[39m: [31m{}[39m
+[2024-01-11 13:18:09] [31merror[39m: [31m{}[39m
+[2024-01-11 13:19:16] [31merror[39m: [31m{}[39m
+[2024-01-11 13:25:22] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 13:29:46] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 13:31:31] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:11:57] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:13:02] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:18:10] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:19:29] [31merror[39m: [31m{}[39m
+[2024-01-11 15:20:41] [31merror[39m: [31m{}[39m
+[2024-01-11 15:20:56] [31merror[39m: [31m{}[39m
+[2024-01-11 15:21:20] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:22:59] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:23:16] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:24:36] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:25:42] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:25:59] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:26:45] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:27:19] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:28:25] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:30:06] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-11 15:30:32] [31merror[39m: [31mCannot read properties of undefined (reading 'getAuth')[39m
+[2024-01-15 15:26:22] [31merror[39m: [31m{}[39m
+[2024-01-15 15:26:32] [31merror[39m: [31m{}[39m
+[2024-01-15 15:26:44] [31merror[39m: [31m{}[39m
+[2024-01-15 15:27:00] [31merror[39m: [31m{}[39m
+[2024-01-15 15:27:08] [31merror[39m: [31m{}[39m
+[2024-01-15 15:27:49] [31merror[39m: [31m{}[39m
+[2024-01-15 15:27:57] [31merror[39m: [31m{}[39m
+[2024-01-15 15:28:06] [31merror[39m: [31m{}[39m
+[2024-01-15 15:28:15] [31merror[39m: [31m{}[39m
+[2024-01-15 15:28:19] [31merror[39m: [31m{}[39m
+[2024-01-15 15:29:15] [31merror[39m: [31m{}[39m
+[2024-01-15 15:29:19] [31merror[39m: [31m{}[39m
+[2024-01-15 15:29:33] [31merror[39m: [31m{}[39m
+[2024-01-15 15:43:58] [31merror[39m: [31m{}[39m
+[2024-01-15 15:44:05] [31merror[39m: [31m{}[39m
+[2024-01-15 15:45:38] [31merror[39m: [31m{}[39m
+[2024-01-15 16:21:22] [31merror[39m: [31m{}[39m
+[2024-01-15 16:21:33] [31merror[39m: [31m{}[39m
+[2024-01-15 16:22:06] [31merror[39m: [31m{}[39m
+[2024-01-22 13:08:02] [31merror[39m: [31m{}[39m
+[2024-01-22 13:08:08] [31merror[39m: [31m{}[39m
+[2024-01-22 13:08:13] [31merror[39m: [31m{}[39m
+[2024-01-22 13:08:18] [31merror[39m: [31m{}[39m
+[2024-01-22 13:08:22] [31merror[39m: [31m{}[39m
+[2024-01-22 13:08:46] [31merror[39m: [31m{}[39m
+[2024-01-22 13:08:49] [31merror[39m: [31m{}[39m
+[2024-01-22 13:08:53] [31merror[39m: [31m{}[39m
+[2024-01-22 13:09:18] [31merror[39m: [31m{}[39m
+[2024-01-22 13:10:20] [31merror[39m: [31m{}[39m
+[2024-01-22 13:11:32] [31merror[39m: [31m{}[39m
+[2024-01-22 13:11:48] [31merror[39m: [31m{}[39m
+[2024-01-22 13:13:40] [31merror[39m: [31mfetch is not defined[39m
+[2024-01-22 13:14:26] [31merror[39m: [31mfetch is not defined[39m
+[2024-01-22 13:14:31] [31merror[39m: [31mfetch is not defined[39m
+[2024-01-22 13:14:39] [31merror[39m: [31mfetch is not defined[39m
+[2024-01-22 15:03:25] [31merror[39m: [31mCannot read properties of undefined (reading 'role')[39m
+[2024-01-22 15:05:11] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-22 15:06:37] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-22 15:06:49] [31merror[39m: [31mString required as first argument[39m
+[2024-01-22 15:08:23] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-22 15:08:33] [31merror[39m: [31mString required as first argument[39m
+[2024-01-22 15:18:51] [31merror[39m: [31mString required as first argument[39m
+[2024-01-22 15:36:15] [31merror[39m: [31mString required as first argument[39m
+[2024-01-22 15:38:01] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-22 15:38:10] [31merror[39m: [31mString required as first argument[39m
+[2024-01-22 15:39:57] [31merror[39m: [31mString required as first argument[39m
+[2024-01-22 15:41:58] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-22 15:42:07] [31merror[39m: [31mString required as first argument[39m
+[2024-01-22 15:43:25] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-22 15:43:38] [31merror[39m: [31mqrcodeDataUrl.split is not a function[39m
+[2024-01-22 15:45:23] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-22 15:45:33] [31merror[39m: [31mqrcodeDataUrl.split is not a function[39m
+[2024-01-22 15:48:05] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-01-22 15:58:08] [31merror[39m: [31mfetch is not defined[39m
+[2024-01-22 15:58:19] [31merror[39m: [31mfetch is not defined[39m
+[2024-01-22 15:59:25] [31merror[39m: [31mfetch is not defined[39m
+[2024-01-22 16:00:10] [31merror[39m: [31mfetch is not defined[39m
+[2024-01-22 16:04:46] [31merror[39m: [31mfetch is not defined[39m
+[2024-01-22 16:08:37] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-01-22 16:10:26] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-01-22 16:23:42] [31merror[39m: [31mCannot destructure property 'uid' of 'user' as it is undefined.[39m
+[2024-01-22 16:24:27] [31merror[39m: [31mCannot destructure property 'uid' of 'user' as it is undefined.[39m
+[2024-01-22 16:31:05] [31merror[39m: [31mCannot destructure property 'uid' of 'user' as it is undefined.[39m
+[2024-01-22 16:47:17] [31merror[39m: [31mCannot destructure property 'uid' of 'user' as it is undefined.[39m
+[2024-01-22 16:47:24] [31merror[39m: [31mCannot destructure property 'uid' of 'user' as it is undefined.[39m
+[2024-01-22 16:47:27] [31merror[39m: [31mCannot destructure property 'uid' of 'user' as it is undefined.[39m
+[2024-01-22 16:48:25] [31merror[39m: [31mCannot destructure property 'uid' of 'user' as it is undefined.[39m
+[2024-01-22 16:58:54] [31merror[39m: [31mCannot destructure property 'uid' of 'user' as it is undefined.[39m
+[2024-01-23 15:28:12] [31merror[39m: [31mconnect ETIMEDOUT 142.250.194.170:443[39m
+[2024-01-23 15:28:51] [31merror[39m: [31mconnect ETIMEDOUT 142.250.194.170:443[39m
+[2024-01-23 15:30:39] [31merror[39m: [31m5 NOT_FOUND: No document to update: projects/whats-tha-move-dev/databases/(default)/documents/eventtickets/NJQpdlrsYmhP08Nx4ycbcQv2Hpu1[39m
+[2024-01-23 15:31:43] [31merror[39m: [31m5 NOT_FOUND: No document to update: projects/whats-tha-move-dev/databases/(default)/documents/eventtickets/NJQpdlrsYmhP08Nx4ycbcQv2Hpu1[39m
+[2024-01-23 15:34:35] [31merror[39m: [31m5 NOT_FOUND: No document to update: projects/whats-tha-move-dev/databases/(default)/documents/eventtickets/NJQpdlrsYmhP08Nx4ycbcQv2Hpu1[39m
+[2024-01-25 22:39:22] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-01-25 22:40:05] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-01-25 22:41:46] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-01-25 22:43:37] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-01-29 22:09:48] [31merror[39m: [31mValue for argument "documentPath" is not a valid resource path. Path must be a non-empty string.[39m
+[2024-01-29 22:34:49] [31merror[39m: [31meventData.createdAt.toDateString is not a function[39m
+[2024-02-14 18:43:46] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-02-14 18:43:58] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-02-14 18:59:16] [31merror[39m: [31mCannot read properties of undefined (reading 'originalname')[39m
+[2024-02-14 19:01:03] [31merror[39m: [31mCannot read properties of undefined (reading 'originalname')[39m
+[2024-02-22 12:49:31] [31merror[39m: [31mthis.firebaseApp.getAuth is not a function[39m
+[2024-02-22 12:49:31] [31merror[39m: [31mthis.firebaseApp.getAuth is not a function[39m
+[2024-02-22 12:49:51] [31merror[39m: [31mthis.firebaseApp.getAuth is not a function[39m
+[2024-02-22 12:49:51] [31merror[39m: [31mthis.firebaseApp.getAuth is not a function[39m
+[2024-02-22 12:53:10] [31merror[39m: [31mthis.firebaseApp.getAuth is not a function[39m
+[2024-02-22 12:53:10] [31merror[39m: [31mthis.firebaseApp.getAuth is not a function[39m
+[2024-02-22 18:12:27] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:13:18] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:14:01] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:16:49] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:21:52] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:22:43] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:23:37] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:24:51] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:33:17] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:34:36] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:35:54] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:37:40] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:41:31] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 18:41:31] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:42:28] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 18:42:28] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:42:28] [31merror[39m: [31mCannot read properties of undefined (reading 'verifyIdToken')[39m
+[2024-02-22 18:42:28] [31merror[39m: [31mCannot read properties of undefined (reading 'verifyIdToken')[39m
+[2024-02-22 18:47:40] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 18:47:40] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:49:11] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 18:49:11] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:49:11] [31merror[39m: [31mCannot read properties of undefined (reading 'verifyIdToken')[39m
+[2024-02-22 18:49:38] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 18:49:38] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:49:38] [31merror[39m: [31mCannot read properties of undefined (reading 'verifyIdToken')[39m
+[2024-02-22 18:49:38] [31merror[39m: [31mCannot read properties of undefined (reading 'verifyIdToken')[39m
+[2024-02-22 18:57:00] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 18:57:00] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:57:00] [31merror[39m: [31mCannot read properties of undefined (reading 'verifyIdToken')[39m
+[2024-02-22 18:57:00] [31merror[39m: [31mCannot read properties of undefined (reading 'getUserByEmail')[39m
+[2024-02-22 18:57:00] [31merror[39m: [31mCannot read properties of undefined (reading 'getUserByEmail')[39m
+[2024-02-22 18:57:38] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 18:57:38] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:57:38] [31merror[39m: [31mCannot read properties of undefined (reading 'verifyIdToken')[39m
+[2024-02-22 18:57:38] [31merror[39m: [31mCannot read properties of undefined (reading 'getUserByEmail')[39m
+[2024-02-22 18:57:38] [31merror[39m: [31mCannot read properties of undefined (reading 'getUserByEmail')[39m
+[2024-02-22 18:58:10] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 18:58:10] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:58:10] [31merror[39m: [31mthis.firebaseApp.getAuth(...).verifyIdToken is not a function[39m
+[2024-02-22 18:58:10] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 18:58:10] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 18:59:28] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 18:59:28] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 18:59:28] [31merror[39m: [31mthis.firebaseApp.getAuth(...).verifyIdToken is not a function[39m
+[2024-02-22 18:59:28] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 18:59:28] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 18:59:28] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:01:21] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 19:01:21] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 19:01:21] [31merror[39m: [31mthis.firebaseApp.getAuth(...).verifyIdToken is not a function[39m
+[2024-02-22 19:01:21] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:01:21] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:01:21] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:02:53] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 19:02:53] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 19:02:53] [31merror[39m: [31mthis.firebaseApp.getAuth(...).verifyIdToken is not a function[39m
+[2024-02-22 19:02:53] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:02:53] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:02:53] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:03:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 19:03:07] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 19:03:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).verifyIdToken is not a function[39m
+[2024-02-22 19:03:07] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:03:07] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:03:07] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:03:07] [31merror[39m: [31mCannot read properties of undefined (reading 'then')[39m
+[2024-02-22 19:04:45] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 19:04:45] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 19:04:45] [31merror[39m: [31mthis.firebaseApp.getAuth(...).verifyIdToken is not a function[39m
+[2024-02-22 19:04:45] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:04:45] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:04:45] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:04:45] [31merror[39m: [31mCannot read properties of undefined (reading 'then')[39m
+[2024-02-22 19:04:45] [31merror[39m: [31mCannot read properties of undefined (reading 'then')[39m
+[2024-02-22 19:05:20] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 19:05:20] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 19:05:20] [31merror[39m: [31mthis.firebaseApp.getAuth(...).verifyIdToken is not a function[39m
+[2024-02-22 19:05:20] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:05:20] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:05:20] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:05:20] [31merror[39m: [31mCannot read properties of undefined (reading 'then')[39m
+[2024-02-22 19:05:20] [31merror[39m: [31mCannot read properties of undefined (reading 'then')[39m
+[2024-02-22 19:12:49] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-22 19:12:49] [31merror[39m: [31mPlease enter a valid name[39m
+[2024-02-22 19:12:49] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:12:49] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:12:49] [31merror[39m: [31mUser with email not found[39m
+[2024-02-22 19:12:49] [31merror[39m: [31mCannot read properties of undefined (reading 'then')[39m
+[2024-02-22 19:12:49] [31merror[39m: [31mCannot read properties of undefined (reading 'then')[39m
+[2024-02-22 19:25:42] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-23 16:23:37] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-23 16:41:37] [31merror[39m: [31mthis.firebaseApp.getAuth(...).createUser is not a function[39m
+[2024-02-28 17:02:32] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-02-28 17:11:35] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-02-28 17:16:00] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-02-28 17:16:00] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-02-28 17:16:57] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-02-28 17:16:57] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-02-28 20:56:54] [31merror[39m: [31mconnect ETIMEDOUT 142.250.206.106:443[39m
+[2024-02-28 20:57:13] [31merror[39m: [31mconnect ETIMEDOUT 142.250.206.106:443[39m
+[2024-02-28 20:57:39] [31merror[39m: [31mconnect ETIMEDOUT 142.250.206.106:443[39m
+[2024-02-28 20:58:10] [31merror[39m: [31mconnect ETIMEDOUT 142.250.206.106:443[39m
+[2024-02-28 21:00:23] [31merror[39m: [31mconnect ETIMEDOUT 142.250.206.138:443[39m
+[2024-02-28 21:01:04] [31merror[39m: [31mconnect ETIMEDOUT 142.250.206.138:443[39m
+[2024-03-01 11:48:50] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-03-01 11:49:03] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-03-01 11:49:19] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-03-01 12:16:38] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:21:08] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:21:08] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:23:43] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:23:43] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:23:43] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:23:43] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:56:35] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:56:35] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:56:36] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:56:36] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:56:36] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 12:56:36] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:57:44] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:57:44] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:57:44] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:57:44] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 12:57:44] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 12:57:44] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:13:40] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:13:40] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:13:40] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:13:40] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:13:40] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:13:40] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:13:40] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:13:40] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:14:07] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:14:07] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:14:07] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:14:07] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:14:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:14:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:14:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:14:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:18:46] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:18:46] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:18:46] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:18:46] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 13:18:46] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:18:46] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:18:46] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:18:46] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 13:18:46] [31merror[39m: [31mCannot read property 'exists' of undefined[39m
+[2024-03-01 14:50:55] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 14:50:55] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 14:50:55] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 14:50:55] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 14:50:55] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 14:50:55] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 14:50:55] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 14:50:55] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 14:50:55] [31merror[39m: [31mCannot read property 'exists' of undefined[39m
+[2024-03-01 16:07:01] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 16:07:01] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 16:07:01] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 16:07:01] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 16:07:01] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 16:07:01] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 16:07:01] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 16:07:01] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 16:07:01] [31merror[39m: [31mCannot read property 'exists' of undefined[39m
+[2024-03-01 16:15:12] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 16:15:12] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 16:15:12] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 16:15:12] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 16:15:12] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 16:15:12] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 16:15:12] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 16:15:12] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 16:15:12] [31merror[39m: [31mCannot read property 'exists' of undefined[39m
+[2024-03-01 16:15:12] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 16:20:34] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 16:21:02] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 16:22:20] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 16:28:54] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 17:03:41] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 17:04:39] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 17:07:11] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 17:07:59] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 17:12:15] [31merror[39m: [31mCannot read property 'filter' of undefined[39m
+[2024-03-01 17:13:23] [31merror[39m: [31mCannot read property 'filter' of undefined[39m
+[2024-03-01 17:14:59] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 17:16:45] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 17:22:29] [31merror[39m: [31mUpdate() requires either a single JavaScript object or an alternating list of field/value pairs that can be followed by an optional precondition. Value for argument "dataOrField" is not a valid Firestore document. Couldn't serialize object of type "Firestore" (found in field "_firestore"). Firestore doesn't support JavaScript objects with custom prototypes (i.e. objects that were created via the "new" operator).[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mCannot read property 'forEach' of undefined[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mCannot read property 'exists' of undefined[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mthis.firebaseApp.getAuth(...).getUser is not a function[39m
+[2024-03-01 18:42:07] [31merror[39m: [31mCannot read property 'data' of undefined[39m
+[2024-03-18 23:02:20] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-03-18 23:02:47] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-03-18 23:03:00] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-03-18 23:03:07] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-03-18 23:03:21] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-03-18 23:03:34] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-03-18 23:03:42] [31merror[39m: [31mRequest failed with status code 400[39m
+[2024-03-18 23:04:37] [31merror[39m: [31mThe email address is already in use by another account.[39m
+[2024-03-18 23:06:25] [31merror[39m: [31mValue for argument "documentPath" is not a valid resource path. Path must be a non-empty string.[39m
+[2024-03-18 23:07:03] [31merror[39m: [31mValue for argument "documentPath" is not a valid resource path. Path must be a non-empty string.[39m
+[2024-03-18 23:31:47] [31merror[39m: [31mValue for argument "documentPath" is not a valid resource path. Path must be a non-empty string.[39m
+[2024-03-18 23:34:15] [31merror[39m: [31mValue for argument "documentPath" is not a valid resource path. Path must be a non-empty string.[39m
+[2024-03-18 23:39:42] [31merror[39m: [31mValue for argument "documentPath" is not a valid resource path. Path must be a non-empty string.[39m
